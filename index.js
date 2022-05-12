@@ -243,7 +243,7 @@ const addReff = (reff, token) => new Promise((resolve, reject) => {
     //     process.exit(0);
     // }
 
-    const reff = 'C1MVGSX5';
+    const reff = 'W9KZ7CW6';
 
     if (!reff) {
         console.log('Harap masukan kode refferal')
